@@ -1,4 +1,4 @@
-# Vite + React + shadcn-ui + Tailwind CSS Starter
+# Vite + React +  Tailwind CSS Starter
 
 ## Project Info
 
@@ -59,4 +59,5 @@ Refer to the provider's documentation for deployment steps.
 ## Can I connect a custom domain?
 
 Yes! Most hosting providers allow you to connect a custom domain.  
+
 Check your hosting provider's documentation for instructions on connecting
