@@ -48,7 +48,6 @@ This project is built with:
 - Vite
 - TypeScript
 - React
-- shadcn-ui
 - Tailwind CSS
 
 ## How can I deploy this project?
@@ -61,3 +60,4 @@ Refer to the provider's documentation for deployment steps.
 Yes! Most hosting providers allow you to connect a custom domain.  
 
 Check your hosting provider's documentation for instructions on connecting
+
